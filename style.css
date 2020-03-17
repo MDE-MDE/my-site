@@ -114,6 +114,18 @@ body {
   background-image: url("img/icon-css.svg");
 }
 
+.skill-java {
+  background-image: url("img/java_icon.svg");
+}
+
+.skill-js {
+  background-image: url("img/js_icon.svg");
+}
+
+.skill-sql {
+  background-image: url("img/sql_icon.svg");
+}
+
 .level {
   margin: 4px 0 16px;
   padding: 0;
